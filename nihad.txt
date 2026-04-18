@@ -1,0 +1,25 @@
+<html>
+<head>
+<titel>www.nihad.com</tiyel>
+</head>
+<body>
+hello world my name is nihad </body>
+<h1>welcome to my world</h1>
+<p>This is my personal website</p>
+<br>
+<hr>
+<a href="https://www.facebook.com/share/p/1EUUS4qoTv/?mibextid=wwXIfr">Go to facebook</a>
+
+<img src="image.jpg" alt="my image" width="200">
+ <ul>
+  <li><h1>my favorite subject ?<h1>  </li> 
+<ol>
+ <li>Math</li>
+ <li>English</li>
+</ul> 
+<div>
+  <h2>Title</h2>
+  <p>Some text</p>
+</div>
+
+<span style="color:red">Red text</span> 
